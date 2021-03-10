@@ -1,8 +1,9 @@
 {
-  "name": "lavozuniversal",
+  "name": "La Voz Universal",
   "short_name": "lavozuniversal",
   "description": "## Build Setup",
   "icons": [
+    "static/favicon.png",
     {
       "src": "/_nuxt/icons/icon_64x64.69f63e.png",
       "sizes": "64x64",
@@ -49,5 +50,5 @@
   "start_url": "/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
-  "lang": "en"
+  "lang": "es"
 }
