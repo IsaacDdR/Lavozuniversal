@@ -50,5 +50,6 @@
   "start_url": "/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
-  "lang": "es"
+  "lang": "es",
+  "themecolor": "ccf2ea"
 }
