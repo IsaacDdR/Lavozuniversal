@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1621404383",layout:"default",error:a,serverRendered:true,routePath:"\u002FlavozBlog\u002Fmusica-mundo",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"a387c843"}}}}(null));
