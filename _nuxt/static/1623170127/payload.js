@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{todayDay:8,todayMonth:5,personToday:[],persons:[],_img:{}}],fetch:{},mutations:void 0});

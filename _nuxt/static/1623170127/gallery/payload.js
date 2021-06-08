@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/gallery", {data:[{_img:{"https://res.cloudinary.com/duruqkfg4/image/upload/v1621186563/4_tdradn.jpg":"\u002F_nuxt\u002Fimage\u002F479fff.webp"}}],fetch:{},mutations:void 0});
