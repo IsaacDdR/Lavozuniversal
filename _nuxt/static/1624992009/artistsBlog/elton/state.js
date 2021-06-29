@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1624992009",layout:"default",error:a,serverRendered:true,routePath:"\u002FartistsBlog\u002Felton",config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},strapi:{url:"http:\u002F\u002Flocalhost:1337"},http:{browserBaseURL:b},content:{dbHash:"800195f7"}},globalRefs:{}}}(null,"\u002F"));
